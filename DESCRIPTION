@@ -1,0 +1,16 @@
+Package: rx.tzh
+Type: Package
+Title: Fancy operations based on regular expression
+Version: 0.1.0
+Date: 2025-05-13
+Description: Fancy operations based on regular expression.
+License: GPL-2
+Encoding: UTF-8
+Authors@R: c(person(given = "Tingting", family = "Zhan", role = c("aut", "cre",
+         "cph"), email = c("tingtingzhan@gmail.com")))
+Language: en-US
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: R (>= 4.5.0)
+Suggests: knitr, quarto, rmarkdown
+VignetteBuilder: quarto
